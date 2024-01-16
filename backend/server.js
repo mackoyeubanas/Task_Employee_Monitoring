@@ -47,7 +47,7 @@ async function connectDB() {
         .catch((error) => console.log(error));
 }
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 4000;
 app.listen(port, err => {
     if (err) console.log(err)
     else console.log('CRUD application running on port ' + port + ' 💯');
