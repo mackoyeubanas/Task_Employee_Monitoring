@@ -1,6 +1,4 @@
-# SpectrumTech Solutions Employee and Task Management App
-
-Welcome to the SpectrumTech Solutions Employee and Task Management App repository! This application is designed to facilitate the management of employees and tasks within the company. With this app, you can seamlessly add, edit, and delete employees and tasks, ensuring smooth operations and task assignment.
+Task_Employee_Monitoring
 
 ## Features
 
